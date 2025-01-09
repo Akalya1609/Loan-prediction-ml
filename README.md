@@ -1,1 +1,1 @@
-# Loan-prediction-ml
+# Predicting Loan Eligiblity through Logistic Regression Model
